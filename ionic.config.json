@@ -1,0 +1,7 @@
+{
+  "name": "orbitpay",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
